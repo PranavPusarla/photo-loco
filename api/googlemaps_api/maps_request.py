@@ -4,7 +4,7 @@ import time
 import requests
 import json
 
-API_KEY = 'AIzaSyDE1bap6fzYKlWS9UahPmgxbhAIFQNIbz0'
+API_KEY = ##
 
 NEARBY_SEARCH_URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
