@@ -4,7 +4,7 @@ import time
 import requests
 import json
 
-API_KEY = ##
+API_KEY = ## Google Vision API Key
 
 NEARBY_SEARCH_URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
