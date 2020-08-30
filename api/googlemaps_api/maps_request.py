@@ -3,8 +3,9 @@ import pprint
 import time
 import requests
 import json
+import os
 
-API_KEY = ## Google Vision API Key
+API_KEY = os.environ['GOOGLE_VISION_API_KEY']
 
 NEARBY_SEARCH_URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
